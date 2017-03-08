@@ -3,4 +3,4 @@
 
 # Personal Blog
 ### It's a Django based personal blog, using MySQL as DB.
-#### The blog will be updated frequently in the following few weeks. After I finished the fundemental jobs, I will put it online
+#### The blog will be updated frequently in the following few weeks. After I finished the fundamental jobs, I will put it online. 
